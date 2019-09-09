@@ -1,0 +1,66 @@
+#pageWelcome
+{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../img/brand/city.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+.dropdown-user, .dropdown-navbar
+{
+	width: 350px;
+	max-width: 70vw;
+}
+
+#formSignin
+{
+	width: 400px;
+	max-width: 70vw;
+}
+
+#pageWelcomeContent
+{
+	position: relative;
+	z-index: 2;
+}
+
+#bgPageWelcomeHello
+{
+	padding: 1.5em;
+	background-image: linear-gradient(rgba(255, 255, 255, 0.8),rgba(255, 255, 255, 0.8));
+}
+
+#pageWelcomeContent>nav
+{
+	background-image: linear-gradient(rgba(255, 255, 255, 0.8),rgba(255, 255, 255, 0.8));
+}
+
+#inputGuestName
+{
+	font-size: 1.8rem;
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: none !important;
+	border: none !important;
+	padding: 0;
+}
+
+#inputGuestName::placeholder
+{
+	color: rgb(179, 179, 179);
+	font-size: 1.3rem;
+}
+
+#pageWelcomeHello
+{
+	margin-top: 10vh;
+}
+
+#pageWelcomeHello .input-group-text
+{
+	font-size: 1.8rem;
+	background-color: rgba(0,0,0,0);
+	color: #f8f9fa;
+	box-shadow: none !important;
+	border: none !important;
+}

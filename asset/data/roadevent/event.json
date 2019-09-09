@@ -1,0 +1,26 @@
+[
+    {
+       "location" : "Road 21",
+       "status" : "Pending",
+       "lat":"",
+       "long":""
+    },
+    {
+        "location" : "Road 19",
+       "status" : "Pending",
+       "lat":"",
+       "long":""
+     },
+     {
+        "location" : "Road 18",
+       "status" : "Done",
+       "lat":"",
+       "long":""
+     },
+     {
+        "location" : "Road 17",
+       "status" : "Pending",
+       "lat":"",
+       "long":""
+     }
+]  
